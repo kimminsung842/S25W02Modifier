@@ -1,4 +1,4 @@
-<img width="305" height="691" alt="image" src="https://github.com/user-attachments/assets/7d9e2bd5-adfb-4b00-99db-816a022765e3" /># 스마트 앱 프로그래밍
+# 스마트 앱 프로그래밍
 
 # Week 02. Modifier
 
